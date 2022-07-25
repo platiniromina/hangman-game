@@ -71,6 +71,3 @@ ahorcado()
 # |        /|\
 # |        / \
 # |
-
-#holaholahola
-#queonda 
